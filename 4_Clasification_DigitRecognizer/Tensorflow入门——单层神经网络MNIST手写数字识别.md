@@ -1,4 +1,4 @@
-手写数字识别是一个非常经典的机器学习项目，这篇文章，我们就通过参加[Kaggle上这个经典项目](https://www.kaggle.com/c/digit-recognizer)的竞赛，学习如何用Tensorflow和Keras实现一个最简单的单层神经网络。
+手写数字识别是一个非常经典的机器学习项目，这篇文章，我们就通过[Kaggle上这个经典项目](https://www.kaggle.com/c/digit-recognizer)，学习如何用Tensorflow和Keras用最简单的单层神经网络，来识别手写数字。
 
 同样的，为了方便与读者交流，所有的代码都放在了这里：
 
@@ -10,9 +10,9 @@
 
 ## 1. 数据下载和预处理
 
-在[Kaggle的项目](https://www.kaggle.com/c/digit-recognizer/data)页面可以下载两个csv文件，"train.csv"包含数据和标签，"test.csv"仅包含验证数据。你可以用train.csv训练自己的模型，然后再用这个模型预测test.csv中的数据，最后上传至[Kaggle的项目](https://www.kaggle.com/c/digit-recognizer/data)，查看正确率和全球排名。
+在[Kaggle的项目](https://www.kaggle.com/c/digit-recognizer/data)页面可以下载两个csv文件，"train.csv"包含数据和标签，"test.csv"仅包含带验证数据。你可以用train.csv训练自己的模型，然后再用这个模型识别test.csv中的手写数字，并将其分类，最后将结果上传至[Kaggle的项目](https://www.kaggle.com/c/digit-recognizer/data)，查看正确率和全球排名。
 
-通过pands的read_csv方法读取csv文件，分离数据和标签，并分出训练集和验证集
+通过pands的read_csv方法读取csv文件，分离数据和标签，并分用scikit-learn 中的train_test_split,分出训练集和验证集。
 
 ```python
 labeled_images = pd.read_csv('train.csv')
@@ -25,11 +25,15 @@ train_images, test_images,train_labels, test_labels = train_test_split(images, l
 
 这个部分虽然比较难，但是不是这篇文章的重点，就此略过，主要作用是从训练数据集中顺序取出指定数量的batch，在Session中给模型训练。帮助函数处理之后数据的shape为[batch_size, 28,28,1]
 
-帮助函数还有一个作用就是讲标签onehot encoded。onehot encoded 的标签shape为[batch_size, 10]。
+帮助函数还有一个作用，就是将标签onehot encode。onehot-encoded 的标签shape为[batch_size, 10]。
 
 ## 3. 创建模型
 
-单层神经网络，神经元个数就是输出的个数，手写数字有0到9一共10个类别，所以输出是10个数，神经元个数就是10。因为是全连接的神经网络，我们需要把输入的28*28的二维图片拆解拼凑成一个784个像素点的一维向量。输入，输出的个数和纬度决定了权重W和偏移b的shape
+单层神经网络，神经元个数就等于输出的类别的个数，手写数字分成0到9，一共10个类别，神经元个数就是10。
+
+神经网络是全链接的，我们需要把输入的28*28个像素的二维图片，拆解拼凑成一个784个像素点的一维向量。此时输入的feature数就是784。
+
+输入的feature数和输出的类别数共同决定了权重W和偏移b的shape
 
 初始化权重W1和偏移B1：
 
@@ -40,7 +44,7 @@ B1 = tf.Variable(tf.ones([10])/10)
 
 
 
-单层神经网络通过线性变换加softmax的激活函数就能得到最终的结果
+单层神经网络通过softmax的激活，就能得到最终的结果
 
 ```
 XX = tf.reshape(X,[-1,784])
@@ -140,11 +144,11 @@ with tf.Session() as sess:
 
 
 
-最后根据Kanggle提供的后台上传转成csv文件，就可以检验模型的效果啦。
+最后，按照Kanggle提供模板格式，将结果转换成csv文件，上传服务器，就可以看到训练成果啦。
 
+详细过程请参见jupyter notbook中的代码和注释。
 
-
-
+------
 
 参考资料
 
