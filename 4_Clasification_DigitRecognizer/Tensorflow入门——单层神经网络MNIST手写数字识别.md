@@ -1,4 +1,8 @@
-手写数字识别是一个非常经典的机器学习项目，这篇文章，我们就通过[Kaggle上这个经典项目](https://www.kaggle.com/c/digit-recognizer)，学习如何用Tensorflow和Keras用最简单的单层神经网络，来识别手写数字。
+![MNIST sample images.](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
+
+*Image source [wikipedia MNIST database](https://en.wikipedia.org/wiki/MNIST_database)*
+
+手写数字识别是一个非常经典的机器学习项目，这篇文章，我们就通过[Kaggle上这个经典项目](https://www.kaggle.com/c/digit-recognizer)，学习如何用Tensorflow和Keras搭建最简单的单层神经网络，来识别手写数字。
 
 同样的，为了方便与读者交流，所有的代码都放在了这里：
 
@@ -10,9 +14,9 @@
 
 ## 1. 数据下载和预处理
 
-在[Kaggle的项目](https://www.kaggle.com/c/digit-recognizer/data)页面可以下载两个csv文件，"train.csv"包含数据和标签，"test.csv"仅包含带验证数据。你可以用train.csv训练自己的模型，然后再用这个模型识别test.csv中的手写数字，并将其分类，最后将结果上传至[Kaggle的项目](https://www.kaggle.com/c/digit-recognizer/data)，查看正确率和全球排名。
+在[Kaggle的项目](https://www.kaggle.com/c/digit-recognizer/data)页面可以下载两个csv文件，"train.csv"包含数据和标签，"test.csv"仅包含待分类的数据。你可以用train.csv的数据和标签来训练自己的模型，然后再用这个模型识别test.csv中的手写数字，并将其分类，最后将结果上传至[Kaggle的项目](https://www.kaggle.com/c/digit-recognizer/data)，查看正确率和全球排名。
 
-通过pands的read_csv方法读取csv文件，分离数据和标签，并分用scikit-learn 中的train_test_split,分出训练集和验证集。
+通过pandas的read_csv方法读取csv文件，分离数据和标签，并分用scikit-learn 中的train_test_split,分出训练集和验证集。
 
 ```python
 labeled_images = pd.read_csv('train.csv')
@@ -33,7 +37,7 @@ train_images, test_images,train_labels, test_labels = train_test_split(images, l
 
 神经网络是全链接的，我们需要把输入的28*28个像素的二维图片，拆解拼凑成一个784个像素点的一维向量。此时输入的feature数就是784。
 
-输入的feature数和输出的类别数共同决定了权重W和偏移b的shape
+输入的feature数和输出的类别个数共同决定了权重W和偏移b的shape
 
 初始化权重W1和偏移B1：
 
@@ -64,7 +68,7 @@ cross_entropy = -tf.reduce_mean(Y_true * tf.log(Y)) * 1000.0
 cross_entropy = tf.losses.softmax_cross_entropy(onehot_labels = Y_true, logits = Ylogits)
 ```
 
-Optimizer 可以选择基本的GradientDescent也可以选择Adam
+Optimizer 可以选择基本的GradientDescent也可以选择Adam，关于Optimizer的介绍可以查看之前的[相关文章](https://steemit.com/tensorflow/@hongtao/ai-tensorflow-optimizer)。
 
 ```
 optimizer = tf.train.AdamOptimizer(learning_rate=0.001)
@@ -144,7 +148,7 @@ with tf.Session() as sess:
 
 
 
-最后，按照Kanggle提供模板格式，将结果转换成csv文件，上传服务器，就可以看到训练成果啦。
+最后，按照Kaggle提供模板格式，将结果转换成csv文件，上传服务器，就可以看到训练成果啦。
 
 详细过程请参见jupyter notbook中的代码和注释。
 
@@ -157,6 +161,18 @@ with tf.Session() as sess:
 <https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0>
 
 <https://www.tensorflow.org/api_docs/>
+
+----
+
+相关文章
+
+[AI学习笔记——Tensorflow中的Optimizer](https://steemit.com/tensorflow/@hongtao/ai-tensorflow-optimizer)
+
+[Tensorflow入门——分类问题cross_entropy的选择](https://steemit.com/cn-stem/@hongtao/tensorflow-crossentropy-how-to-choose-crossentropy-loss-in-tensorflow-for-classification)
+
+[AI学习笔记——Tensorflow入门](https://steemit.com/cn-stem/@hongtao/ai-tensorflow)
+
+[Tensorflow入门——Keras简介和上手](https://steemit.com/cn-stem/@hongtao/tensorflow-keras)
 
 ----
 
