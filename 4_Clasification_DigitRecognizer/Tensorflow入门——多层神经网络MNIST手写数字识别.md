@@ -1,6 +1,6 @@
-![img](https://images.unsplash.com/photo-1542378993-3aa1366b0090?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80)
+![](https://steemitimages.com/0x0/https://images.unsplash.com/photo-1542378993-3aa1366b0090?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80)
 
-*Image source: [unsplash.com](https://images.unsplash.com/photo-1542378993-3aa1366b0090?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80) by Sergey Pesterev*
+_Image source: [unsplash.com](https://images.unsplash.com/photo-1542378993-3aa1366b0090?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80) by Sergey Pesterev_
 
 [上一篇文章](https://steemit.com/cn-stem/@hongtao/tensorflow-mnist)中，我们用Tensorflow搭建了单层神经网络，该网络对MNIST手写识别率能到达90%。如何进一步提高识别率呢？Let's go deeper, 搭建更多层的神经网络吧。
 
@@ -8,7 +8,7 @@
 
 #### Repository:
 
-<https://github.com/zht007/tensorflow-practice>
+[https://github.com/zht007/tensorflow-practice](https://github.com/zht007/tensorflow-practice)
 
 ## 1. 初始化W和B
 
@@ -43,6 +43,8 @@ W5 = tf.Variable(tf.truncated_normal([O, 10], stddev=0.1))
 B5 = tf.Variable(tf.zeros([10]))
 ```
 
+*该部分代码部分参考[[2]](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)[[3]](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd.git) with Apache License 2.0*
+
 ## 2. 搭建神经网络
 
 搭建神经网络类似于"叠蛋糕"，copy&paste输出层就好了，与输出层不同的是，在输入层和隐藏层中，我们用了比较流行的RELU激活函数。当然，输入层不要忘了Reshape。
@@ -57,19 +59,20 @@ Y4 = tf.nn.relu(tf.matmul(Y3, W4) + B4)
 Ylogits = tf.matmul(Y4, W5) + B5
 Y = tf.nn.softmax(Ylogits)
 ```
+*该部分代码部分参考[[2]](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)[[3]](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd.git) with Apache License 2.0*
 
 Optimizer的选择已经神经网络的训练与单层神经网络没有任何区别，这里就不讨论了，感兴趣的朋友可以去查看源码，接下来我们来看看这个5层神经网络的表现吧。
 
 ## 3. 识别效果
 
-我们用Adam的优化器，0.005的学习速率，100的batch_size，训练了20000个Iteration。最后我们发现训练组的准确率几乎能达到100%，但是验证组的的准确率却始终在97%附件徘徊
+我们用Adam的优化器，0.005的学习速率，100的batch_size，训练了20000个Iteration。最后我们发现训练组的准确率几乎能达到100%，但是验证组的的准确率却始终在97%附近徘徊
+
+```python
+Iteration 19900: loss_train=0.000003: loss_val=0.128829: acc_train=1.000000: acc_val=0.978571
 
 ```
-Iteration 19900:	loss_train=0.000003:	loss_val=0.128829:	acc_train=1.000000:	acc_val=0.978571
 
-```
-
-![image-20190330152502253](https://ws4.sinaimg.cn/large/006tKfTcgy1g1l8jdk7utj30am097q3d.jpg)
+![](https://steemitimages.com/0x0/https://ws4.sinaimg.cn/large/006tKfTcgy1g1l8jdk7utj30am097q3d.jpg)
 
 是的，这就是深度学习典型的overfitting问题。
 
@@ -88,7 +91,7 @@ step = tf.placeholder(tf.int32)
 
 Tensorflow 提供Learning rate decay的方法，这个表示训练速率随着Iteration的增加从0.003一指数形式下降到0.0001。
 
-```
+```python
 lr = 0.0001 + tf.train.exponetial_decay(0.003, step, 2000, 1/math.e)
 ```
 
@@ -141,7 +144,8 @@ with tf.Session() as sess:
                           history['acc_train'][-1],
                           history['acc_val'][-1]))
             
-            print('\n')
+            print('
+')
         
     saver.save(sess,'models_saving/my_model.ckpt'
 ```
@@ -150,19 +154,19 @@ with tf.Session() as sess:
 
 可以看到通过dropout 和 learning rate decay 之后，神经网络对MNIST手写数字的识别率已经能提高到98%了，如何进一步提高识别率呢？我们就必须会引入卷积神经网络了。
 
-
-
-------
+---
 
 参考资料
 
-<https://www.kaggle.com/c/digit-recognizer/data>
+[1][https://www.kaggle.com/c/digit-recognizer/data](https://www.kaggle.com/c/digit-recognizer/data)
 
-<https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0>
+[2][https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 
-<https://www.tensorflow.org/api_docs/>
+[3][https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd.git](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd.git)
 
-------
+[4][https://www.tensorflow.org/api_docs/](https://www.tensorflow.org/api_docs/)
+
+---
 
 相关文章
 
@@ -176,11 +180,11 @@ with tf.Session() as sess:
 
 [Tensorflow入门——Keras简介和上手](https://steemit.com/cn-stem/@hongtao/tensorflow-keras)
 
-------
+---
 
 同步到我的简书和Steemit
 
-<https://steemit.com/@hongtao>
+[https://www.jianshu.com/u/bd506afc6fc1](https://www.jianshu.com/u/bd506afc6fc1)
 
-<https://www.jianshu.com/u/bd506afc6fc1>
+<https://steemit.com/@hongtao>
 
