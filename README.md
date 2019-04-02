@@ -4,7 +4,17 @@ This repository provides data source, Jupiter notebooks for popular machine lear
 
 Each folder in corresponds to one project or data sets. General notes about machine learning and tensorflow are collected in the folder "0_Notes_for_Tensorflow".
 
-All code is written in Python 3 on Jupyter Notebooks. 
+All code is written in Python 3 on Jupyter Notebooks, with detailed notes and comments in English. Tensorflow tutorials for the code are written in Chinese.
+
+If you like this repository please follow me on my [Steemit](https://steemit.com/@hongtao) or [Jianshu](https://www.jianshu.com/).
+
+本项目旨在通过项目实战的方式向读者介绍如何使用Tensorfow进行机器学习，每一个目录对应着一个项目或者一个训练数据集。一般性的学习笔记放在了"0_Notes_for_Tensorflow".目录。
+
+所有的代码都是在Jupyter Notebook上用Python 3写成，详细的英文笔记和注释也都附在了Jupyter Notebook中。对于代码的解释以及Tensorflow的入门，我写成了中文教程。如果喜欢我的教程，欢迎关注我的 [Steemit](https://steemit.com/@hongtao) 或者 [简书](https://www.jianshu.com/).教程会首发Steemit
+
+也欢迎关注我的微信公众号**tensor_leaning**，共同学习，一起进步。
+
+![qrcode_for_gh_34476b7b4dc2_258 (https://ws3.sinaimg.cn/large/006tKfTcgy1g1oq2stzc2j307607674q.jpg)](/Users/hongtao/Downloads/qrcode_for_gh_34476b7b4dc2_258 (1).jpg)
 
 ## Table of Contents 
 
@@ -30,7 +40,7 @@ All code is written in Python 3 on Jupyter Notebooks.
 
 [Tensorflow入门——Keras简介和上手](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94Keras%E7%AE%80%E4%BB%8B%E5%92%8C%E4%B8%8A%E6%89%8B.md)
 
-----
+
 
 ### [2_Classification_Pima_Indians_Diabetes](https://github.com/zht007/tensorflow-practice/tree/master/2_Classification_Pima_Indians_Diabetes)
 
@@ -44,13 +54,13 @@ All code is written in Python 3 on Jupyter Notebooks.
 
 [3-KerasClassification-with-Regularization-dropout](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/3-KerasClassification-with-Regularization-dropout.ipynb)
 
------
+
 
 ### [3_Classification_Census_Data](https://github.com/zht007/tensorflow-practice/tree/master/3_Classification_Census_Data)
 
 [1-Classification-keras-census.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/3_Classification_Census_Data/1-Classification-keras-census.ipynb)
 
-----
+
 
 ### [4_Clasification_DigitRecognizer](https://github.com/zht007/tensorflow-practice/tree/master/4_Clasification_DigitRecognizer)
 
