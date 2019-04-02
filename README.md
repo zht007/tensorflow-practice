@@ -14,7 +14,7 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 也欢迎关注我的微信公众号**tensor_leaning**，共同学习，一起进步。
 
-![qrcode_for_gh_34476b7b4dc2_258 (https://ws3.sinaimg.cn/large/006tKfTcgy1g1oq2stzc2j307607674q.jpg)](/Users/hongtao/Downloads/qrcode_for_gh_34476b7b4dc2_258 (1).jpg)
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1g1oq6xu1iaj307607674q.jpg)
 
 ## Table of Contents 
 
