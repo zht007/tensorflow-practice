@@ -8,7 +8,7 @@ All code is written in Python 3 on Jupyter Notebooks.
 
 ## Table of Contents 
 
-####[0_Notes_for_Tensorflow](https://github.com/zht007/tensorflow-practice/tree/master/0_Notes_for_Tensorflow)
+#### [0_Notes_for_Tensorflow](https://github.com/zht007/tensorflow-practice/tree/master/0_Notes_for_Tensorflow)
 
 [AI学习笔记——Tensorflow入门](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/AI%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94Tensorflow%E5%85%A5%E9%97%A8.md)
 
