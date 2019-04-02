@@ -8,7 +8,7 @@ All code is written in Python 3 on Jupyter Notebooks.
 
 ## Table of Contents 
 
-#### [0_Notes_for_Tensorflow](https://github.com/zht007/tensorflow-practice/tree/master/0_Notes_for_Tensorflow)
+### [0_Notes_for_Tensorflow](https://github.com/zht007/tensorflow-practice/tree/master/0_Notes_for_Tensorflow)
 
 [AI学习笔记——Tensorflow入门](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/AI%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E2%80%94Tensorflow%E5%85%A5%E9%97%A8.md)
 
@@ -18,7 +18,7 @@ All code is written in Python 3 on Jupyter Notebooks.
 
 [免费使用Google的GPU和TPU来训练你的模型](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8Google%E7%9A%84GPU%E5%92%8CTPU%E6%9D%A5%E8%AE%AD%E7%BB%83%E4%BD%A0%E7%9A%84%E6%A8%A1%E5%9E%8B.md)
 
-#### [1_Linear_Regression](https://github.com/zht007/tensorflow-practice/tree/master/1_Linear_Regression)
+### [1_Linear_Regression](https://github.com/zht007/tensorflow-practice/tree/master/1_Linear_Regression)
 
 [01-LinearRegression.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/01-LinearRegression.ipynb)
 
@@ -40,11 +40,11 @@ All code is written in Python 3 on Jupyter Notebooks.
 
 [3-KerasClassification-with-Regularization-dropout](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/3-KerasClassification-with-Regularization-dropout.ipynb)
 
-#### [3_Classification_Census_Data](https://github.com/zht007/tensorflow-practice/tree/master/3_Classification_Census_Data)
+### [3_Classification_Census_Data](https://github.com/zht007/tensorflow-practice/tree/master/3_Classification_Census_Data)
 
 [1-Classification-keras-census.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/3_Classification_Census_Data/1-Classification-keras-census.ipynb)
 
-#### [4_Clasification_DigitRecognizer](https://github.com/zht007/tensorflow-practice/tree/master/4_Clasification_DigitRecognizer)
+### [4_Clasification_DigitRecognizer](https://github.com/zht007/tensorflow-practice/tree/master/4_Clasification_DigitRecognizer)
 
 [1_DL_One_Layer_NN_for_DigitRecognizer.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/1_DL_One_Layer_NN_for_DigitRecognizer.ipynb)
 
