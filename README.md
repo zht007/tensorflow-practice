@@ -18,6 +18,8 @@ All code is written in Python 3 on Jupyter Notebooks.
 
 [免费使用Google的GPU和TPU来训练你的模型](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8Google%E7%9A%84GPU%E5%92%8CTPU%E6%9D%A5%E8%AE%AD%E7%BB%83%E4%BD%A0%E7%9A%84%E6%A8%A1%E5%9E%8B.md)
 
+----
+
 ### [1_Linear_Regression](https://github.com/zht007/tensorflow-practice/tree/master/1_Linear_Regression)
 
 [01-LinearRegression.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/01-LinearRegression.ipynb)
@@ -28,7 +30,9 @@ All code is written in Python 3 on Jupyter Notebooks.
 
 [Tensorflow入门——Keras简介和上手](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94Keras%E7%AE%80%E4%BB%8B%E5%92%8C%E4%B8%8A%E6%89%8B.md)
 
-#### [2_Classification_Pima_Indians_Diabetes](https://github.com/zht007/tensorflow-practice/tree/master/2_Classification_Pima_Indians_Diabetes)
+----
+
+### [2_Classification_Pima_Indians_Diabetes](https://github.com/zht007/tensorflow-practice/tree/master/2_Classification_Pima_Indians_Diabetes)
 
 [1-KerasClassification.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/1-KerasClassification.ipynb)
 
@@ -40,9 +44,13 @@ All code is written in Python 3 on Jupyter Notebooks.
 
 [3-KerasClassification-with-Regularization-dropout](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/3-KerasClassification-with-Regularization-dropout.ipynb)
 
+-----
+
 ### [3_Classification_Census_Data](https://github.com/zht007/tensorflow-practice/tree/master/3_Classification_Census_Data)
 
 [1-Classification-keras-census.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/3_Classification_Census_Data/1-Classification-keras-census.ipynb)
+
+----
 
 ### [4_Clasification_DigitRecognizer](https://github.com/zht007/tensorflow-practice/tree/master/4_Clasification_DigitRecognizer)
 
