@@ -75,3 +75,14 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 [3_DL_Multi_Layer_CNN_for_DigitRecognizer.ipnb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/3_DL_Multi_Layer_CNN_for_DigitRecognizer.ipynb)
 
 [Tensorflow入门——卷积神经网络MNIST手写数子识别](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CMNIST%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.md)
+
+
+
+### [5_Prediction_MilkProdction](https://github.com/zht007/tensorflow-practice/tree/master/5_Prediction_MilkProdction)
+
+[1_RNN_Many_to_One_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/1_RNN_Many_to_One_Keras.ipynb)
+
+[Tensorflow入门——RNN预测牛奶产量.md](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94RNN%E9%A2%84%E6%B5%8B%E7%89%9B%E5%A5%B6%E4%BA%A7%E9%87%8F.md)
+
+[2_RNN_Many_to_Many_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/2_RNN_Many_to_Many_Keras.ipynb)
+

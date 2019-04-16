@@ -8,13 +8,13 @@ https://github.com/zht007/tensorflow-practice
 
 ### 1. GRU和LSTM简介
 
-**GUR(Gated Recurrent Unit)**和**LSTM(Long Short Term Memory)**都是改进的RRN结构，为了解决深度RNN中容易出现的**Vanishing Gradient(梯度消失)**的问题。
+**GRU(Gated Recurrent Unit)**和**LSTM(Long Short Term Memory)**都是改进的RRN结构，为了解决深度RNN中容易出现的**Vanishing Gradient(梯度消失)**的问题。
 
 关于梯度消失和梯度爆炸有机会可以单独介绍，简单来说就是浅层神经元在传递过程中由于多次的累乘作用，其权重趋近于无穷大或者趋近于零的现象，从而无法再有效地学习。
 
 梯度消失和梯度爆炸在深度神经网络中非常容易出现，对于RNN来说，梯度消失现象尤为明显。RNN通常处理时间序列的问题，位于时间轴前面的信息很容易在深度网络中由于梯度消失现象，很容易就被"遗忘"掉。
 
-GUR和LSTM就是加入了记忆的功能，从而有效地解决了这个问题。
+GRU和LSTM就是加入了记忆的功能，从而有效地解决了这个问题。LSTM有Forget Gate和 Update Gate，而GRU简化成了一个Gate。目前GRU由于占用资源更少在大多数情况下已经够用了。
 
 ### 2. 数据导入和查看
 
