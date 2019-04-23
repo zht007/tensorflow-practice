@@ -12,7 +12,7 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 所有的代码都是在Jupyter Notebook上用Python 3写成，详细的英文笔记和注释也都附在了Jupyter Notebook中。对于代码的解释以及Tensorflow的入门，我写成了中文教程。如果喜欢我的教程，欢迎关注我的 [Steemit](https://steemit.com/@hongtao) 或者 [简书](https://www.jianshu.com/).教程会首发Steemit
 
-也欢迎关注我的微信公众号**tensor_leaning**，共同学习，一起进步。
+也欢迎关注我的微信公众号**tensorflow机器学习**，共同学习，一起进步。
 
 ![](https://ws2.sinaimg.cn/large/006tKfTcgy1g1oq6xu1iaj307607674q.jpg)
 
@@ -85,4 +85,20 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 [Tensorflow入门——RNN预测牛奶产量.md](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94RNN%E9%A2%84%E6%B5%8B%E7%89%9B%E5%A5%B6%E4%BA%A7%E9%87%8F.md)
 
 [2_RNN_Many_to_Many_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/2_RNN_Many_to_Many_Keras.ipynb)
+
+[3_RNN_Many_to_Many_Stateful_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/3_RNN_Many_to_Many_Stateful_Keras.ipynb)
+
+[Tensorflow入门——改进RNN预测牛奶产量.md](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/Tensorflow入门——改进RNN预测牛奶产量.md)
+
+
+
+### [6_Renforcement_Learning_Gridword](https://github.com/zht007/tensorflow-practice/tree/master/6_Renforcement_Learning_Gridword)
+
+[1_Policy_Evaluation.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/1_Policy_Evaluation.ipynb)
+
+[2_Policy_Iteration.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/2_Policy_Iteration.ipynb)
+
+[3_Value_Iteration.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/3_Value_Iteration.ipynb)
+
+[强化学习实战——动态规划(DP)求最优MDP.md](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/强化学习实战——动态规划(DP)求最优MDP.md)
 

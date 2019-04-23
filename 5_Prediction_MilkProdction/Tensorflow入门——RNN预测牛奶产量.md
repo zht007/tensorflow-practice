@@ -53,7 +53,7 @@ test_scaled = scaler.transform(test_set)
 > * 设计一个连续的**数据窗口**，窗口中包含13个月的数据。
 >
 > * 由于是**多对一**的结构，前12个月数据X为输入的Feature，后1个月数据为label与神经网络的输出做对比。
-> * **数据窗口**按月平移，这样一共可以产生13*12个组数据。
+> * **数据窗口**按月平移，这样一共可以产生12*12个组数据。
 
 ```python
 def build_train_data(data, past_monthes = 12, future_monthes = 1):
