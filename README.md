@@ -102,3 +102,15 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 [强化学习实战——动态规划(DP)求最优MDP.md](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/强化学习实战——动态规划(DP)求最优MDP.md)
 
+
+
+### [7_Renforcement_Learning_blackjack](https://github.com/zht007/tensorflow-practice/tree/master/7_Renforcement_Learning_blackjack)
+
+[1_MC_Prediction .ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/1_MC_Prediction .ipynb)
+
+[2_MC_Control_with Epsilon_Greedy Policies.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/2_MC_Control_with Epsilon_Greedy Policies.ipynb)
+
+[3_Off_Policy_MC Control_with_Weighted Importance_Sampling.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/3_Off_Policy_MC Control_with_Weighted Importance_Sampling Solution-Copy1.ipynb)
+
+[强化学习——MC(蒙特卡洛)玩21点扑克游戏.md](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/强化学习——MC(蒙特卡洛)玩21点扑克游戏.md)
+
