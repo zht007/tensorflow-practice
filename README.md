@@ -106,11 +106,11 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 ### [7_Renforcement_Learning_blackjack](https://github.com/zht007/tensorflow-practice/tree/master/7_Renforcement_Learning_blackjack)
 
-[1_MC_Prediction .ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/1_MC_Prediction .ipynb)
+[1_MC_Prediction .ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/1_MC_Prediction%20.ipynb)
 
-[2_MC_Control_with Epsilon_Greedy Policies.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/2_MC_Control_with Epsilon_Greedy Policies.ipynb)
+[2_MC_Control_with Epsilon_Greedy Policies.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/2_MC_Control_with%20Epsilon_Greedy%20Policies.ipynb)
 
-[3_Off_Policy_MC Control_with_Weighted Importance_Sampling.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/3_Off_Policy_MC Control_with_Weighted Importance_Sampling Solution-Copy1.ipynb)
+[3_Off_Policy_MC Control_with_Weighted Importance_Sampling.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/3_Off_Policy_MC%20Control_with_Weighted%20Importance_Sampling.ipynb)
 
 [强化学习——MC(蒙特卡洛)玩21点扑克游戏.md](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/强化学习——MC(蒙特卡洛)玩21点扑克游戏.md)
 
