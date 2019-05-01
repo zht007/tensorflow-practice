@@ -1,6 +1,6 @@
 # Overview
 
-This repository provides data source, Jupiter notebooks for popular machine learning projects.
+This repository provides data source, Jupyter notebooks for popular machine learning projects.
 
 Each folder in corresponds to one project or data sets. General notes about machine learning and tensorflow are collected in the folder "0_Notes_for_Tensorflow".
 
@@ -113,4 +113,12 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 [3_Off_Policy_MC Control_with_Weighted Importance_Sampling.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/3_Off_Policy_MC%20Control_with_Weighted%20Importance_Sampling.ipynb)
 
 [强化学习——MC(蒙特卡洛)玩21点扑克游戏.md](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/强化学习——MC(蒙特卡洛)玩21点扑克游戏.md)
+
+
+
+### [8_Renforcement_Learning_Clif_Env](https://github.com/zht007/tensorflow-practice/tree/master/8_Renforcement_Learning_Clif_Env)
+
+[1_SARSA_Q-Learning_compare_Clif_Env.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/8_Renforcement_Learning_Clif_Env/1_SARSA_Q-Learning_compare_Clif_Env.ipynb)
+
+[强化学习实战——Q-Learing和SASAR悬崖探宝.md](https://github.com/zht007/tensorflow-practice/blob/master/8_Renforcement_Learning_Clif_Env/强化学习实战——Q-Learing和SASAR悬崖探宝.md)
 
