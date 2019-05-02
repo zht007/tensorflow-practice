@@ -61,7 +61,7 @@ train = optimizer.minimize(error)
 
 注意这里我们定义了训练的次数train_steps
 
-```
+```python
 init = tf.global_variables_initializer()
 
 train_steps = 10
