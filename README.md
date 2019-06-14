@@ -28,6 +28,8 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 [免费使用Google的GPU和TPU来训练你的模型](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8Google%E7%9A%84GPU%E5%92%8CTPU%E6%9D%A5%E8%AE%AD%E7%BB%83%E4%BD%A0%E7%9A%84%E6%A8%A1%E5%9E%8B.md)
 
+[深入理解Numpy和Tensorflow中的Axis操作](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/深入理解Numpy和Tensorflow中的Axis操作.md)
+
 ----
 
 ### [1_Linear_Regression](https://github.com/zht007/tensorflow-practice/tree/master/1_Linear_Regression)
@@ -79,6 +81,10 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 [3_DL_Multi_Layer_CNN_for_DigitRecognizer.ipnb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/3_DL_Multi_Layer_CNN_for_DigitRecognizer.ipynb)
 
 [Tensorflow入门——卷积神经网络MNIST手写数子识别](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CMNIST%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.md)
+
+[4_DL_Multi_Layer_CNN_for_DigitRecognizer_with_tensorboard.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/4_DL_Multi_Layer_CNN_for_DigitRecognizer_with_tensorboard.ipynb)
+
+[两步轻松实现在Keras中使用Tensorboard.](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/两步轻松实现在Keras中使用Tensorboard.md)
 
 
 
