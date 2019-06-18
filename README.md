@@ -86,6 +86,10 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 [两步轻松实现在Keras中使用Tensorboard.](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/两步轻松实现在Keras中使用Tensorboard.md)
 
+[5_DL_Multi_Layer_CNN_for_DigitRecognizer_with_various_parameters](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/5_DL_Multi_Layer_CNN_for_DigitRecognizer_with_various_parameters.ipynb)
+
+[利用Tensorboard辅助模型调参](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/利用Tensorboard辅助模型调参.md)
+
 
 
 ### [5_Prediction_MilkProdction](https://github.com/zht007/tensorflow-practice/tree/master/5_Prediction_MilkProdction)
