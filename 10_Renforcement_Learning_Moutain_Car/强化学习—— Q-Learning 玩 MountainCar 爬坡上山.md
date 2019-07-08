@@ -76,7 +76,7 @@ def take_epilon_greedy_action(state, epsilon):
 
 ```
 
-Code from [Github Repo](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/1_q_learning_python_mountain_car.ipynb) with MIT lisence
+Code from [Github Repo](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/1_q_learning_python_mountain_car.ipynb) with MIT license
 
 ### 4. 训练智能体
 
