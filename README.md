@@ -96,13 +96,13 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 [1_RNN_Many_to_One_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/1_RNN_Many_to_One_Keras.ipynb)
 
-[Tensorflow入门——RNN预测牛奶产量.md](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94RNN%E9%A2%84%E6%B5%8B%E7%89%9B%E5%A5%B6%E4%BA%A7%E9%87%8F.md)
+[Tensorflow入门——RNN预测牛奶产量](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94RNN%E9%A2%84%E6%B5%8B%E7%89%9B%E5%A5%B6%E4%BA%A7%E9%87%8F.md)
 
 [2_RNN_Many_to_Many_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/2_RNN_Many_to_Many_Keras.ipynb)
 
 [3_RNN_Many_to_Many_Stateful_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/3_RNN_Many_to_Many_Stateful_Keras.ipynb)
 
-[Tensorflow入门——改进RNN预测牛奶产量.md](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/Tensorflow入门——改进RNN预测牛奶产量.md)
+[Tensorflow入门——改进RNN预测牛奶产量](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/Tensorflow入门——改进RNN预测牛奶产量.md)
 
 
 
@@ -114,7 +114,7 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 [3_Value_Iteration.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/3_Value_Iteration.ipynb)
 
-[强化学习实战——动态规划(DP)求最优MDP.md](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/强化学习实战——动态规划(DP)求最优MDP.md)
+[强化学习实战——动态规划(DP)求最优MDP](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/强化学习实战——动态规划(DP)求最优MDP.md)
 
 
 
@@ -126,7 +126,7 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 [3_Off_Policy_MC Control_with_Weighted Importance_Sampling.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/3_Off_Policy_MC%20Control_with_Weighted%20Importance_Sampling.ipynb)
 
-[强化学习——MC(蒙特卡洛)玩21点扑克游戏.md](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/强化学习——MC(蒙特卡洛)玩21点扑克游戏.md)
+[强化学习——MC(蒙特卡洛)玩21点扑克游戏](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/强化学习——MC(蒙特卡洛)玩21点扑克游戏.md)
 
 
 
@@ -134,7 +134,7 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 [1_SARSA_Q-Learning_compare_Clif_Env.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/8_Renforcement_Learning_Clif_Env/1_SARSA_Q-Learning_compare_Clif_Env.ipynb)
 
-[强化学习实战——Q-Learing和SASAR悬崖探宝.md](https://github.com/zht007/tensorflow-practice/blob/master/8_Renforcement_Learning_Clif_Env/强化学习实战——Q-Learing和SASAR悬崖探宝.md)
+[强化学习实战——Q-Learing和SASAR悬崖探宝](https://github.com/zht007/tensorflow-practice/blob/master/8_Renforcement_Learning_Clif_Env/强化学习实战——Q-Learing和SASAR悬崖探宝.md)
 
 
 
@@ -142,7 +142,13 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 [1_dqn_keras_rl_cartpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/dqn_cartpole.ipynb)
 
-[DQN深度Q-Learning轻松上手.md](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/DQN深度Q-Learning轻松上手.md)
+[DQN深度Q-Learning轻松上手](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/DQN深度Q-Learning轻松上手.md)
+
+[2_q_learning_python_carpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/2_q_learning_python_carpole.ipynb)
+
+[3_SARSA_python_carpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/3_SARSA_python_carpole.ipynb)
+
+[4_SARSA_lambda_python_carpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/4_SARSA_lambda_python_carpole.ipynb)
 
 
 
@@ -152,3 +158,8 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 [强化学习—— Q-Learning 玩 MountainCar 爬坡上山](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/强化学习—— Q-Learning 玩 MountainCar 爬坡上山.md)
 
+[2_SARSA_python_mountain_car.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/2_SARSA_python_mountain_car.ipynb)
+
+[3_SARSA_lambda_python_mountain_car.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/3_SARSA_lambda_python_mountain_car.ipynb)
+
+[强化学习—— SARSA 和 SARSA lambda 玩 MountainCar 爬坡上山](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/强化学习—— SARSA 和 SARSA lambda 玩 MountainCar 爬坡上山.md)
