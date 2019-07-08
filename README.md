@@ -150,6 +150,8 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 [4_SARSA_lambda_python_carpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/4_SARSA_lambda_python_carpole.ipynb)
 
+[强化学习_Q-Learning_SARSA玩Carpole经典游戏](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/强化学习_Q-Learning_SARSA玩Carpole经典游戏.md)
+
 
 
 ### [10_Renforcement_Learning_Moutain_Car](https://github.com/zht007/tensorflow-practice/tree/master/10_Renforcement_Learning_Moutain_Car)
