@@ -162,7 +162,7 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 [3_SARSA_lambda_python_mountain_car.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/3_SARSA_lambda_python_mountain_car.ipynb)
 
-[强化学习_SARSA和SARSA lambda玩 MountainCa 爬坡上山](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/强化学习_SARSA和SARSA lambda玩 MountainCa 爬坡上山.md)
+[强化学习_SARSA和SARSA lambda玩 MountainCa 爬坡上山](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/强化学习_SARSA和SARSA_lambda玩 MountainCar爬坡上山.md)
 
 
 
