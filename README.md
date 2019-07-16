@@ -140,7 +140,7 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 
 ### [9_Renforcement_Learning_CartPole](https://github.com/zht007/tensorflow-practice/tree/master/9_Renforcement_Learning_CartPole)
 
-[1_dqn_keras_rl_cartpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/dqn_cartpole.ipynb)
+[1_dqn_keras_rl_cartpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/1_dqn_keras_rl_cartpole.ipynb)
 
 [DQN深度Q-Learning轻松上手](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/DQN深度Q-Learning轻松上手.md)
 
