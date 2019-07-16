@@ -1,12 +1,36 @@
 # Overview
 
-This repository provides data source, Jupyter notebooks for popular machine learning projects.
+This repository provides data source, Jupyter notebooks for machine learning projects. Each folder corresponds to one project or data sets. General notes about machine learning and TensorFlow are collected in the folder "0_Notes_for_Tensorflow". 
 
-Each folder in corresponds to one project or data sets. General notes about machine learning and tensorflow are collected in the folder "0_Notes_for_Tensorflow".
+Quick links of the projects are (with constant updates):
 
-All code is written in Python 3 on Jupyter Notebooks, with detailed notes and comments in English. Tensorflow tutorials for the code are written in Chinese.
+[1_Linear_Regression](https://github.com/zht007/tensorflow-practice/tree/master/1_Linear_Regression)
+
+[2_Classification_Pima_Indians_Diabetes](https://github.com/zht007/tensorflow-practice/tree/master/2_Classification_Pima_Indians_Diabetes)
+
+[3_Classification_Census_Data](https://github.com/zht007/tensorflow-practice/tree/master/3_Classification_Census_Data)
+
+[4_Clasification_DigitRecognizer](https://github.com/zht007/tensorflow-practice/tree/master/4_Clasification_DigitRecognizer)
+
+[5_Prediction_MilkProdction](https://github.com/zht007/tensorflow-practice/tree/master/5_Prediction_MilkProdction)
+
+[6_Renforcement_Learning_Gridword](https://github.com/zht007/tensorflow-practice/tree/master/6_Renforcement_Learning_Gridword)
+
+[7_Renforcement_Learning_blackjack](https://github.com/zht007/tensorflow-practice/tree/master/7_Renforcement_Learning_blackjack)
+
+[8_Renforcement_Learning_Clif_Env](https://github.com/zht007/tensorflow-practice/tree/master/8_Renforcement_Learning_Clif_Env)
+
+[9_Renforcement_Learning_CartPole](https://github.com/zht007/tensorflow-practice/tree/master/9_Renforcement_Learning_CartPole)
+
+[10_Renforcement_Learning_Moutain_Car](https://github.com/zht007/tensorflow-practice/tree/master/10_Renforcement_Learning_Moutain_Car)
+
+All codes are written in Python 3 on Jupyter Notebooks, with detailed notes and comments in English. Tensorflow tutorials for Chinease readers are provided.
 
 If you like this repository please follow me on my [Steemit](https://steemit.com/@hongtao) or [Jianshu](https://www.jianshu.com/).
+
+----
+
+For Chinese Readers:
 
 本项目旨在通过项目实战的方式向读者介绍如何使用Tensorfow进行机器学习，每一个目录对应着一个项目或者一个训练数据集。一般性的学习笔记放在了"0_Notes_for_Tensorflow".目录。
 
@@ -15,6 +39,8 @@ If you like this repository please follow me on my [Steemit](https://steemit.com
 也欢迎关注我的微信公众号**tensorflow机器学习**，共同学习，一起进步。
 
 ![](https://ws2.sinaimg.cn/large/006tKfTcgy1g1oq6xu1iaj307607674q.jpg)
+
+---
 
 ## Table of Contents 
 
