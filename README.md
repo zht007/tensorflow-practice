@@ -1,6 +1,6 @@
 # Overview
 
-This repository provides data source, Jupyter notebooks for machine learning projects. Each folder corresponds to one project or data sets. General notes about machine learning and TensorFlow are collected in the folder "0_Notes_for_Tensorflow". 
+This repository provides data source, Jupyter notebooks for machine learning projects. Each folder corresponds to one project or data sets. General notes about machine learning and TensorFlow are collected in the folder "0_Notes_for_Tensorflow".  You can click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()to open the notebook in Colab and exclude the code there directly.
 
 Quick links of the projects are (with constant updates):
 
@@ -60,15 +60,15 @@ For Chinese Readers:
 
 ### [1_Linear_Regression](https://github.com/zht007/tensorflow-practice/tree/master/1_Linear_Regression)
 
-[01-LinearRegression.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/01-LinearRegression.ipynb)
+[01-LinearRegression.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/01-LinearRegression.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/01-LinearRegression.ipynb)
 
 [Tensorflow入门——线性回归](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.md)
 
-[02-RegressionBatchKeras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/02-RegressionBatchKeras.ipynb)
+[02-RegressionBatchKeras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/02-RegressionBatchKeras.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/02-RegressionBatchKeras.ipynb)
 
 [Tensorflow入门——Keras简介和上手](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94Keras%E7%AE%80%E4%BB%8B%E5%92%8C%E4%B8%8A%E6%89%8B.md)
 
-[03-Regression_TF_eager_api.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/03-Regression_TF_eager_api.ipynb)
+[03-Regression_TF_eager_api.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/03-Regression_TF_eager_api.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/03-Regression_TF_eager_api.ipynb)
 
 [Tensorflow入门——Eager模式像原生python一样训练模型.md](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow入门——Eager模式像原生python一样训练模型.md)
 
@@ -76,43 +76,43 @@ For Chinese Readers:
 
 ### [2_Classification_Pima_Indians_Diabetes](https://github.com/zht007/tensorflow-practice/tree/master/2_Classification_Pima_Indians_Diabetes)
 
-[1-KerasClassification.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/1-KerasClassification.ipynb)
+[1-KerasClassification.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/1-KerasClassification.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/1-KerasClassification.ipynb)
 
 [Tensorflow入门——Keras处理分类问题](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94Keras%E5%A4%84%E7%90%86%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98.md)
 
-[2-TensorflowClassification.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/2-TensorflowClassification.ipynb)
+[2-TensorflowClassification.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/2-TensorflowClassification.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/2-TensorflowClassification.ipynb)
 
 [Tensorflow入门——Tensorflow处理分类问题](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94Tensorflow%E5%A4%84%E7%90%86%E5%88%86%E7%B1%BB%E9%97%AE%E9%A2%98.md)
 
-[3-KerasClassification-with-Regularization-dropout](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/3-KerasClassification-with-Regularization-dropout.ipynb)
+[3-KerasClassification-with-Regularization-dropout](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/3-KerasClassification-with-Regularization-dropout.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/3-KerasClassification-with-Regularization-dropout.ipynb)
 
 
 
 ### [3_Classification_Census_Data](https://github.com/zht007/tensorflow-practice/tree/master/3_Classification_Census_Data)
 
-[1-Classification-keras-census.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/3_Classification_Census_Data/1-Classification-keras-census.ipynb)
+[1-Classification-keras-census.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/3_Classification_Census_Data/1-Classification-keras-census.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/3_Classification_Census_Data/1-Classification-keras-census.ipynb)
 
 
 
 ### [4_Clasification_DigitRecognizer](https://github.com/zht007/tensorflow-practice/tree/master/4_Clasification_DigitRecognizer)
 
-[1_DL_One_Layer_NN_for_DigitRecognizer.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/1_DL_One_Layer_NN_for_DigitRecognizer.ipynb)
+[1_DL_One_Layer_NN_for_DigitRecognizer.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/1_DL_One_Layer_NN_for_DigitRecognizer.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/1_DL_One_Layer_NN_for_DigitRecognizer.ipynb)
 
 [Tensorflow入门——单层神经网络MNIST手写数子识别](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94%E5%8D%95%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CMNIST%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.md)
 
-[2_DL_Multi_Layer_NN_for_DigitRecognizer.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/2_DL_Multi_Layer_NN_for_DigitRecognizer.ipynb)
+[2_DL_Multi_Layer_NN_for_DigitRecognizer.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/2_DL_Multi_Layer_NN_for_DigitRecognizer.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/2_DL_Multi_Layer_NN_for_DigitRecognizer.ipynb)
 
 [Tensorflow入门——多层神经网络MNIST手写数子识别](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94%E5%A4%9A%E5%B1%82%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CMNIST%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.md)
 
-[3_DL_Multi_Layer_CNN_for_DigitRecognizer.ipnb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/3_DL_Multi_Layer_CNN_for_DigitRecognizer.ipynb)
+[3_DL_Multi_Layer_CNN_for_DigitRecognizer.ipnb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/3_DL_Multi_Layer_CNN_for_DigitRecognizer.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/3_DL_Multi_Layer_CNN_for_DigitRecognizer.ipynb)
 
 [Tensorflow入门——卷积神经网络MNIST手写数子识别](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9CMNIST%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.md)
 
-[4_DL_Multi_Layer_CNN_for_DigitRecognizer_with_tensorboard.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/4_DL_Multi_Layer_CNN_for_DigitRecognizer_with_tensorboard.ipynb)
+[4_DL_Multi_Layer_CNN_for_DigitRecognizer_with_tensorboard.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/4_DL_Multi_Layer_CNN_for_DigitRecognizer_with_tensorboard.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/4_DL_Multi_Layer_CNN_for_DigitRecognizer_with_tensorboard.ipynb)
 
 [两步轻松实现在Keras中使用Tensorboard.](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/两步轻松实现在Keras中使用Tensorboard.md)
 
-[5_DL_Multi_Layer_CNN_for_DigitRecognizer_with_various_parameters](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/5_DL_Multi_Layer_CNN_for_DigitRecognizer_with_various_parameters.ipynb)
+[5_DL_Multi_Layer_CNN_for_DigitRecognizer_with_various_parameters](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/5_DL_Multi_Layer_CNN_for_DigitRecognizer_with_various_parameters.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/5_DL_Multi_Layer_CNN_for_DigitRecognizer_with_various_parameters.ipynb)
 
 [利用Tensorboard辅助模型调参](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/利用Tensorboard辅助模型调参.md)
 
@@ -120,13 +120,13 @@ For Chinese Readers:
 
 ### [5_Prediction_MilkProdction](https://github.com/zht007/tensorflow-practice/tree/master/5_Prediction_MilkProdction)
 
-[1_RNN_Many_to_One_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/1_RNN_Many_to_One_Keras.ipynb)
+[1_RNN_Many_to_One_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/1_RNN_Many_to_One_Keras.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/1_RNN_Many_to_One_Keras.ipynb)
 
 [Tensorflow入门——RNN预测牛奶产量](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94RNN%E9%A2%84%E6%B5%8B%E7%89%9B%E5%A5%B6%E4%BA%A7%E9%87%8F.md)
 
-[2_RNN_Many_to_Many_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/2_RNN_Many_to_Many_Keras.ipynb)
+[2_RNN_Many_to_Many_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/2_RNN_Many_to_Many_Keras.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/2_RNN_Many_to_Many_Keras.ipynb)
 
-[3_RNN_Many_to_Many_Stateful_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/3_RNN_Many_to_Many_Stateful_Keras.ipynb)
+[3_RNN_Many_to_Many_Stateful_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/3_RNN_Many_to_Many_Stateful_Keras.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/3_RNN_Many_to_Many_Stateful_Keras.ipynb)
 
 [Tensorflow入门——改进RNN预测牛奶产量](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/Tensorflow入门——改进RNN预测牛奶产量.md)
 
@@ -134,11 +134,11 @@ For Chinese Readers:
 
 ### [6_Renforcement_Learning_Gridword](https://github.com/zht007/tensorflow-practice/tree/master/6_Renforcement_Learning_Gridword)
 
-[1_Policy_Evaluation.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/1_Policy_Evaluation.ipynb)
+[1_Policy_Evaluation.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/1_Policy_Evaluation.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/1_Policy_Evaluation.ipynb)
 
-[2_Policy_Iteration.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/2_Policy_Iteration.ipynb)
+[2_Policy_Iteration.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/2_Policy_Iteration.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/2_Policy_Iteration.ipynb)
 
-[3_Value_Iteration.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/3_Value_Iteration.ipynb)
+[3_Value_Iteration.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/3_Value_Iteration.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/3_Value_Iteration.ipynb)
 
 [强化学习实战——动态规划(DP)求最优MDP](https://github.com/zht007/tensorflow-practice/blob/master/6_Renforcement_Learning_Gridword/强化学习实战——动态规划(DP)求最优MDP.md)
 
@@ -146,11 +146,11 @@ For Chinese Readers:
 
 ### [7_Renforcement_Learning_blackjack](https://github.com/zht007/tensorflow-practice/tree/master/7_Renforcement_Learning_blackjack)
 
-[1_MC_Prediction .ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/1_MC_Prediction%20.ipynb)
+[1_MC_Prediction .ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/1_MC_Prediction%20.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/1_MC_Prediction%20.ipynb)
 
-[2_MC_Control_with Epsilon_Greedy Policies.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/2_MC_Control_with%20Epsilon_Greedy%20Policies.ipynb)
+[2_MC_Control_with Epsilon_Greedy Policies.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/2_MC_Control_with%20Epsilon_Greedy%20Policies.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/2_MC_Control_with%20Epsilon_Greedy%20Policies.ipynb)
 
-[3_Off_Policy_MC Control_with_Weighted Importance_Sampling.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/3_Off_Policy_MC%20Control_with_Weighted%20Importance_Sampling.ipynb)
+[3_Off_Policy_MC Control_with_Weighted Importance_Sampling.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/3_Off_Policy_MC%20Control_with_Weighted%20Importance_Sampling.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/3_Off_Policy_MC%20Control_with_Weighted%20Importance_Sampling.ipynb)
 
 [强化学习——MC(蒙特卡洛)玩21点扑克游戏](https://github.com/zht007/tensorflow-practice/blob/master/7_Renforcement_Learning_blackjack/强化学习——MC(蒙特卡洛)玩21点扑克游戏.md)
 
@@ -158,7 +158,7 @@ For Chinese Readers:
 
 ### [8_Renforcement_Learning_Clif_Env](https://github.com/zht007/tensorflow-practice/tree/master/8_Renforcement_Learning_Clif_Env)
 
-[1_SARSA_Q-Learning_compare_Clif_Env.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/8_Renforcement_Learning_Clif_Env/1_SARSA_Q-Learning_compare_Clif_Env.ipynb)
+[1_SARSA_Q-Learning_compare_Clif_Env.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/8_Renforcement_Learning_Clif_Env/1_SARSA_Q-Learning_compare_Clif_Env.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/8_Renforcement_Learning_Clif_Env/1_SARSA_Q-Learning_compare_Clif_Env.ipynb)
 
 [强化学习实战——Q-Learing和SASAR悬崖探宝](https://github.com/zht007/tensorflow-practice/blob/master/8_Renforcement_Learning_Clif_Env/强化学习实战——Q-Learing和SASAR悬崖探宝.md)
 
@@ -166,15 +166,15 @@ For Chinese Readers:
 
 ### [9_Renforcement_Learning_CartPole](https://github.com/zht007/tensorflow-practice/tree/master/9_Renforcement_Learning_CartPole)
 
-[1_dqn_keras_rl_cartpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/1_dqn_keras_rl_cartpole.ipynb)
+[1_dqn_keras_rl_cartpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/1_dqn_keras_rl_cartpole.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/1_dqn_keras_rl_cartpole.ipynb)
 
 [DQN深度Q-Learning轻松上手](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/DQN深度Q-Learning轻松上手.md)
 
-[2_q_learning_python_carpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/2_q_learning_python_carpole.ipynb)
+[2_q_learning_python_carpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/2_q_learning_python_carpole.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/2_q_learning_python_carpole.ipynb)
 
-[3_SARSA_python_carpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/3_SARSA_python_carpole.ipynb)
+[3_SARSA_python_carpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/3_SARSA_python_carpole.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/3_SARSA_python_carpole.ipynb)
 
-[4_SARSA_lambda_python_carpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/4_SARSA_lambda_python_carpole.ipynb)
+[4_SARSA_lambda_python_carpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/4_SARSA_lambda_python_carpole.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/4_SARSA_lambda_python_carpole.ipynb)
 
 [强化学习_Q-Learning_SARSA玩Carpole经典游戏](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/强化学习_Q-Learning_SARSA玩Carpole经典游戏.md)
 
@@ -182,13 +182,13 @@ For Chinese Readers:
 
 ### [10_Renforcement_Learning_Moutain_Car](https://github.com/zht007/tensorflow-practice/tree/master/10_Renforcement_Learning_Moutain_Car)
 
-[1_q_learning_python_mountain_car.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/1_q_learning_python_mountain_car.ipynb)
+[1_q_learning_python_mountain_car.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/1_q_learning_python_mountain_car.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/1_q_learning_python_mountain_car.ipynb)
 
 [强化学习_Q-Learning玩MountainCar爬坡上山](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/强化学习_Q-Learning玩MountainCar爬坡上山.md)
 
-[2_SARSA_python_mountain_car.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/2_SARSA_python_mountain_car.ipynb)
+[2_SARSA_python_mountain_car.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/2_SARSA_python_mountain_car.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/2_SARSA_python_mountain_car.ipynb)
 
-[3_SARSA_lambda_python_mountain_car.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/3_SARSA_lambda_python_mountain_car.ipynb)
+[3_SARSA_lambda_python_mountain_car.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/3_SARSA_lambda_python_mountain_car.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/3_SARSA_lambda_python_mountain_car.ipynb)
 
 [强化学习_SARSA和SARSA lambda玩 MountainCa 爬坡上山](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/强化学习_SARSA和SARSA_lambda玩MountainCar爬坡上山.md)
 
