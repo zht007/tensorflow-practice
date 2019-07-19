@@ -192,5 +192,6 @@ For Chinese Readers:
 
 [强化学习_SARSA和SARSA lambda玩 MountainCa 爬坡上山](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/强化学习_SARSA和SARSA_lambda玩MountainCar爬坡上山.md)
 
+[4_q_learning_python_mountain_car_continuos.](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/4_q_learning_python_mountain_car_continuos.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/4_q_learning_python_mountain_car_continuos.ipynb)
 
 
