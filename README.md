@@ -178,6 +178,8 @@ For Chinese Readers:
 
 [强化学习_Q-Learning_SARSA玩Carpole经典游戏](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/强化学习_Q-Learning_SARSA玩Carpole经典游戏.md)
 
+[5_DQN_keras_cartpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/5_DQN_keras_cartpole.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/5_DQN_keras_cartpole.ipynb)
+
 
 
 ### [10_Renforcement_Learning_Moutain_Car](https://github.com/zht007/tensorflow-practice/tree/master/10_Renforcement_Learning_Moutain_Car)
@@ -194,4 +196,6 @@ For Chinese Readers:
 
 [4_q_learning_python_mountain_car_continuos.](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/4_q_learning_python_mountain_car_continuos.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/4_q_learning_python_mountain_car_continuos.ipynb)
 
+[Q-Learning--可操控动作大小的小车爬山游戏](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/Q-Learning--可操控动作大小的小车爬山游戏.md)
 
+[5_DQN_keras_mountain_car.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/5_DQN_keras_mountain_car.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/10_Renforcement_Learning_Moutain_Car/5_DQN_keras_mountain_car.ipynb)
