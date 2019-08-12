@@ -180,6 +180,10 @@ For Chinese Readers:
 
 [5_DQN_keras_cartpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/5_DQN_keras_cartpole.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/5_DQN_keras_cartpole.ipynb)
 
+[6_double_dqn_kearas_cartpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/6_double_dqn_kearas_cartpole.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/6_double_dqn_kearas_cartpole.ipynb)
+
+[用 Keras 搭建 Double DQN 模型.md](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/用 Keras 搭建 Double DQN 模型.md)
+
 
 
 ### [10_Renforcement_Learning_Moutain_Car](https://github.com/zht007/tensorflow-practice/tree/master/10_Renforcement_Learning_Moutain_Car)
