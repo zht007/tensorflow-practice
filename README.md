@@ -24,6 +24,8 @@ Quick links of the projects are (with constant updates):
 
 [10_Renforcement_Learning_Moutain_Car](https://github.com/zht007/tensorflow-practice/tree/master/10_Renforcement_Learning_Moutain_Car)
 
+[11_Transfer_Learing](https://github.com/zht007/tensorflow-practice/tree/master/11_Transfer_Learning)
+
 All codes are written in Python 3 on Jupyter Notebooks, with detailed notes and comments in English. Tensorflow tutorials for Chinease readers are provided.
 
 If you like this repository please follow me on my [Steemit](https://steemit.com/@hongtao) or [Jianshu](https://www.jianshu.com/).
@@ -206,7 +208,7 @@ For Chinese Readers:
 
 
 
-### 11_Transfer_Learing
+### [11_Transfer_Learing](https://github.com/zht007/tensorflow-practice/tree/master/11_Transfer_Learning)
 
 [1_flowers_with_transfer_learning.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/11_Transfer_Learning/1_flowers_with_transfer_learning.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/11_Transfer_Learning/1_flowers_with_transfer_learning.ipynb)
 
