@@ -184,6 +184,8 @@ For Chinese Readers:
 
 [6_double_dqn_kearas_cartpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/6_double_dqn_kearas_cartpole.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/6_double_dqn_kearas_cartpole.ipynb)
 
+[7_policy_gradient_cartpole_tensorflow.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/7_policy_gradient_cartpole_tensorflow.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/7_policy_gradient_cartpole_tensorflow.ipynb)
+
 [用Keras搭建Double DQN模型](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/用Keras搭建Double_DQN模型.md)
 
 
