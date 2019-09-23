@@ -90,7 +90,7 @@ For Chinese Readers:
 
 [4_Regression_TF_2_0.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/04_Regression_TF_2_0.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/04_Regression_TF_2_0.ipynb)
 
-[Tensorflow 2.0 快速入门 —— 自动求导与线性回归](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow 2.0 快速入门 —— 自动求导与线性回归.md)
+[Tensorflow 2.0 快速入门 —— 自动求导与线性回归](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow2.0快速入门——自动求导与线性回归.md)
 
 ### [3_Classification_Census_Data](https://github.com/zht007/tensorflow-practice/tree/master/3_Classification_Census_Data)
 
