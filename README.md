@@ -190,7 +190,7 @@ For Chinese Readers:
 
 [7_policy_gradient_cartpole_tensorflow.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/7_policy_gradient_cartpole_tensorflow.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/7_policy_gradient_cartpole_tensorflow.ipynb)
 
-[深度强化学习_Policy_Gradient_玩转_CartPole 游戏](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/深度强化学习_Policy_Gradient_玩转_CartPole 游戏.md)
+[深度强化学习_Policy_Gradient_玩转_CartPole 游戏](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/深度强化学习_Policy_Gradient_玩转_CartPole游戏.md)
 
 
 
