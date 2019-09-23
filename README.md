@@ -88,7 +88,9 @@ For Chinese Readers:
 
 [3-KerasClassification-with-Regularization-dropout](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/3-KerasClassification-with-Regularization-dropout.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/3-KerasClassification-with-Regularization-dropout.ipynb)
 
+[4_Regression_TF_2_0.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/04_Regression_TF_2_0.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/04_Regression_TF_2_0.ipynb)
 
+[Tensorflow 2.0 快速入门 —— 自动求导与线性回归](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow 2.0 快速入门 —— 自动求导与线性回归.md)
 
 ### [3_Classification_Census_Data](https://github.com/zht007/tensorflow-practice/tree/master/3_Classification_Census_Data)
 
@@ -184,9 +186,11 @@ For Chinese Readers:
 
 [6_double_dqn_kearas_cartpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/6_double_dqn_kearas_cartpole.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/6_double_dqn_kearas_cartpole.ipynb)
 
+[用Keras搭建Double DQN模型](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/用Keras搭建Double_DQN模型.md)
+
 [7_policy_gradient_cartpole_tensorflow.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/7_policy_gradient_cartpole_tensorflow.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/7_policy_gradient_cartpole_tensorflow.ipynb)
 
-[用Keras搭建Double DQN模型](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/用Keras搭建Double_DQN模型.md)
+[深度强化学习_Policy_Gradient_玩转_CartPole 游戏](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/深度强化学习_Policy_Gradient_玩转_CartPole 游戏.md)
 
 
 
