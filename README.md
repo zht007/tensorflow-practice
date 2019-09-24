@@ -62,15 +62,15 @@ For Chinese Readers:
 
 ### [1_Linear_Regression](https://github.com/zht007/tensorflow-practice/tree/master/1_Linear_Regression)
 
-[01-LinearRegression.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/01-LinearRegression.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/01-LinearRegression.ipynb)
+[1-LinearRegression.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/01-LinearRegression.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/01-LinearRegression.ipynb)
 
 [Tensorflow入门——线性回归](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.md)
 
-[02-RegressionBatchKeras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/02-RegressionBatchKeras.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/02-RegressionBatchKeras.ipynb)
+[2-RegressionBatchKeras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/02-RegressionBatchKeras.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/02-RegressionBatchKeras.ipynb)
 
 [Tensorflow入门——Keras简介和上手](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94Keras%E7%AE%80%E4%BB%8B%E5%92%8C%E4%B8%8A%E6%89%8B.md)
 
-[03-Regression_TF_eager_api.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/03-Regression_TF_eager_api.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/03-Regression_TF_eager_api.ipynb)
+[3-Regression_TF_eager_api.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/03-Regression_TF_eager_api.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/03-Regression_TF_eager_api.ipynb)
 
 [Tensorflow入门——Eager模式像原生python一样训练模型.md](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow入门——Eager模式像原生python一样训练模型.md)
 
