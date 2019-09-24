@@ -74,7 +74,9 @@ For Chinese Readers:
 
 [Tensorflow入门——Eager模式像原生python一样训练模型.md](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow入门——Eager模式像原生python一样训练模型.md)
 
+[4_Regression_TF_2_0.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/04_Regression_TF_2_0.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/04_Regression_TF_2_0.ipynb)
 
+[Tensorflow 2.0 快速入门 —— 自动求导与线性回归](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow2.0快速入门——自动求导与线性回归.md)
 
 ### [2_Classification_Pima_Indians_Diabetes](https://github.com/zht007/tensorflow-practice/tree/master/2_Classification_Pima_Indians_Diabetes)
 
@@ -88,9 +90,7 @@ For Chinese Readers:
 
 [3-KerasClassification-with-Regularization-dropout](https://github.com/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/3-KerasClassification-with-Regularization-dropout.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/2_Classification_Pima_Indians_Diabetes/3-KerasClassification-with-Regularization-dropout.ipynb)
 
-[4_Regression_TF_2_0.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/04_Regression_TF_2_0.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/1_Linear_Regression/04_Regression_TF_2_0.ipynb)
 
-[Tensorflow 2.0 快速入门 —— 自动求导与线性回归](https://github.com/zht007/tensorflow-practice/blob/master/1_Linear_Regression/Tensorflow2.0快速入门——自动求导与线性回归.md)
 
 ### [3_Classification_Census_Data](https://github.com/zht007/tensorflow-practice/tree/master/3_Classification_Census_Data)
 
