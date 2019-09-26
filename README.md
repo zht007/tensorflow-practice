@@ -120,6 +120,8 @@ For Chinese Readers:
 
 [利用Tensorboard辅助模型调参](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/利用Tensorboard辅助模型调参.md)
 
+[6_DL_Multi_Layer_CNN_for_DigitRecognizer_TF_2.0](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/6_DL_Multi_Layer_CNN_for_DigitRecognizer_TF2_0.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/5_DL_Multi_Layer_CNN_for_DigitRecognizer_with_various_parameters.ipynb))
+
 
 
 ### [5_Prediction_MilkProdction](https://github.com/zht007/tensorflow-practice/tree/master/5_Prediction_MilkProdction)
