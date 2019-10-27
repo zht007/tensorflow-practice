@@ -36,7 +36,7 @@ For Chinese Readers:
 
 本项目旨在通过项目实战的方式向读者介绍如何使用Tensorfow进行机器学习，每一个目录对应着一个项目或者一个训练数据集。一般性的学习笔记放在了"0_Notes_for_Tensorflow".目录。
 
-所有的代码都是在Jupyter Notebook上用Python 3写成，详细的英文笔记和注释也都附在了Jupyter Notebook中。对于代码的解释以及Tensorflow的入门，我写成了中文教程。如果喜欢我的教程，欢迎关注我的 [Steemit](https://steemit.com/@hongtao) 或者 [简书](https://www.jianshu.com/).教程会首发Steemit
+所有的代码都是在Jupyter Notebook上用Python 3写成，详细的英文笔记和注释也都附在了Jupyter Notebook中。对于代码的解释以及Tensorflow的入门，我写成了中文教程。如果喜欢我的教程，欢迎关注我的 [Steemit](https://steemit.com/@hongtao) 或者 [简书](https://www.jianshu.com/)
 
 也欢迎关注我的微信公众号**tensorflow机器学习**，共同学习，一起进步。
 
