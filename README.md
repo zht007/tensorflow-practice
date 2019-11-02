@@ -134,7 +134,9 @@ For Chinese Readers:
 
 [Tensorflow入门——改进RNN预测牛奶产量](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/Tensorflow入门——改进RNN预测牛奶产量.md)
 
+ [4_RNN_Many_to_One_TF2_0.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/4_RNN_Many_to_One_TF2_0.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/4_RNN_Many_to_One_TF2_0.ipynb)
 
+ [Tensorflow 2.0 快速入门 —— RNN 预测牛奶产量.md](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/Tensorflow 2.0 快速入门 —— RNN 预测牛奶产量.md) 
 
 ### [6_Renforcement_Learning_Gridword](https://github.com/zht007/tensorflow-practice/tree/master/6_Renforcement_Learning_Gridword)
 
