@@ -54,7 +54,7 @@ For Chinese Readers:
 
 [AI学习笔记——神经网络和深度学习](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/AI学习笔记——神经网络和深度学习.md)
 
-[AI学习笔记——精准识别You Only Look Once(YOLO)](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/AI学习笔记——精准识别You Only Look Once(YOLO).md)
+[AI学习笔记——精准识别You Only Look Once(YOLO)](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/AI学习笔记——精准识别You_Only_Look_Once(YOLO).md)
 
 [Tensorflow入门——处理overfitting的问题](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/Tensorflow%E5%85%A5%E9%97%A8%E2%80%94%E2%80%94%E5%A4%84%E7%90%86overfitting%E7%9A%84%E9%97%AE%E9%A2%98.md)
 
@@ -62,7 +62,7 @@ For Chinese Readers:
 
 [深入理解Numpy和Tensorflow中的Axis操作](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/深入理解Numpy和Tensorflow中的Axis操作.md)
 
-[Tensorflow2.0——与Keras 的深度融合](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/Tensorflow2.0——与Keras 的深度融合.md)
+[Tensorflow2.0——与Keras 的深度融合](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/Tensorflow2.0——与Keras的深度融合.md)
 
 
 
