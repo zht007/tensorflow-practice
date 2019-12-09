@@ -64,7 +64,9 @@ For Chinese Readers:
 
 [Tensorflow2.0——与Keras 的深度融合](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/Tensorflow2.0——与Keras的深度融合.md)
 
+[Tensorflow_2_0_Tutorial_data_loading.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/Tensorflow_2_0_Tutorial_data_loading.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/Tensorflow_2_0_Tutorial_data_loading.ipynb)
 
+[Tensorflow2.0-数据加载和预处理.md](https://github.com/zht007/tensorflow-practice/blob/master/0_Notes_for_Tensorflow/Tensorflow2.0-数据加载和预处理.md)
 
 ----
 
