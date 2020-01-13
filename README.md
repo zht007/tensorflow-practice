@@ -26,6 +26,8 @@ Quick links of the projects are (with constant updates):
 
 [11_Transfer_Learing](https://github.com/zht007/tensorflow-practice/tree/master/11_Transfer_Learning)
 
+[12_Classification_CIFAR](https://github.com/zht007/tensorflow-practice/tree/master/12_Classification_CIFAR)
+
 All codes are written in Python 3 on Jupyter Notebooks, with detailed notes and comments in English. Tensorflow tutorials for Chinease readers are provided.
 
 If you like this repository please follow me on my [Steemit](https://steemit.com/@hongtao) or [Jianshu](https://www.jianshu.com/).
@@ -234,3 +236,10 @@ For Chinese Readers:
 
 [Tensorflow 2.0 轻松实现迁移学习](https://github.com/zht007/tensorflow-practice/blob/master/11_Transfer_Learning/Tensorflow_2.0_轻松实现迁移学习.md)
 
+
+
+### [12_Classification_CIFAR](https://github.com/zht007/tensorflow-practice/tree/master/12_Classification_CIFAR)
+
+[1_ResNet_for_CIFAR100_TF2_0](https://github.com/zht007/tensorflow-practice/blob/master/12_Classification_CIFAR/1_ResNet_for_CIFAR100_TF2_0.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//zht007/tensorflow-practice/blob/master/12_Classification_CIFAR/1_ResNet_for_CIFAR100_TF2_0.ipynb)
+
+[Tensorflow_2_0__ResNet实战CIFAR100数据集.md](https://github.com/zht007/tensorflow-practice/blob/master/12_Classification_CIFAR/Tensorflow_2_0__ResNet实战CIFAR100数据集.md)
