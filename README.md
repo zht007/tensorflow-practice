@@ -28,6 +28,8 @@ Quick links of the projects are (with constant updates):
 
 [12_Classification_CIFAR](https://github.com/zht007/tensorflow-practice/tree/master/12_Classification_CIFAR)
 
+[13_Classification_Reuters](https://github.com/zht007/tensorflow-practice/tree/master/13_Classification_Reuters)
+
 All codes are written in Python 3 on Jupyter Notebooks, with detailed notes and comments in English. Tensorflow tutorials for Chinease readers are provided.
 
 If you like this repository please follow me on my [Steemit](https://steemit.com/@hongtao) or [Jianshu](https://www.jianshu.com/).
@@ -240,6 +242,16 @@ For Chinese Readers:
 
 ### [12_Classification_CIFAR](https://github.com/zht007/tensorflow-practice/tree/master/12_Classification_CIFAR)
 
-[1_ResNet_for_CIFAR100_TF2_0](https://github.com/zht007/tensorflow-practice/blob/master/12_Classification_CIFAR/1_ResNet_for_CIFAR100_TF2_0.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//zht007/tensorflow-practice/blob/master/12_Classification_CIFAR/1_ResNet_for_CIFAR100_TF2_0.ipynb)
+[1_ResNet_for_CIFAR100_TF2_0](https://github.com/zht007/tensorflow-practice/blob/master/12_Classification_CIFAR/1_ResNet_for_CIFAR100_TF2_0.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/12_Classification_CIFAR/1_ResNet_for_CIFAR100_TF2_0.ipynb)
 
-[Tensorflow_2_0__ResNet实战CIFAR100数据集.md](https://github.com/zht007/tensorflow-practice/blob/master/12_Classification_CIFAR/Tensorflow_2_0__ResNet实战CIFAR100数据集.md)
+[Tensorflow_2_0__ResNet实战CIFAR100数据集](https://github.com/zht007/tensorflow-practice/blob/master/12_Classification_CIFAR/Tensorflow_2_0__ResNet实战CIFAR100数据集.md)
+
+
+
+### [13_Classification_Reuters](https://github.com/zht007/tensorflow-practice/tree/master/13_Classification_Reuters)
+
+[1_RNN_LSTM_GRU_for_Reuters_TF2_0.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/13_Classification_Reuters/1_RNN_LSTM_GRU_for_Reuters_TF2_0.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/13_Classification_Reuters/1_RNN_LSTM_GRU_for_Reuters_TF2_0.ipynb)
+
+[2_RNN_LSTM_GRU_cell_for_Reuters_TF2_0.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/13_Classification_Reuters/2_RNN_LSTM_GRU_cell_for_Reuters_TF2_0.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/13_Classification_Reuters/2_RNN_LSTM_GRU_cell_for_Reuters_TF2_0.ipynb)
+
+[Tensorflow2_0---RNN实战路透社新闻分类](https://github.com/zht007/tensorflow-practice/blob/master/13_Classification_Reuters/Tensorflow2_0---RNN实战路透社新闻分类.md)
