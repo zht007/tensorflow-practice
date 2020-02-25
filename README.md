@@ -138,6 +138,12 @@ For Chinese Readers:
 
 [Tensorflow_2.0_快速入门——引入Keras自定义模型](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/Tensorflow_2.0_快速入门——引入Keras自定义模型.md)
 
+[7_DL_Multi_Layer_CNN_for_DigitRecognizer_TF2_0_with_Tensorboard.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/7_DL_Multi_Layer_CNN_for_DigitRecognizer_TF2_0_with_Tensorboard.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/7_DL_Multi_Layer_CNN_for_DigitRecognizer_TF2_0_with_Tensorboard.ipynb)
+
+[Tensorflow2.0——可视化工具Tensorboard](https://github.com/zht007/tensorflow-practice/blob/master/4_Clasification_DigitRecognizer/Tensorflow2.0——可视化工具Tensorboard.md)
+
+
+
 ### [5_Prediction_MilkProdction](https://github.com/zht007/tensorflow-practice/tree/master/5_Prediction_MilkProdction)
 
 [1_RNN_Many_to_One_Keras.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/1_RNN_Many_to_One_Keras.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/5_Prediction_MilkProdction/1_RNN_Many_to_One_Keras.ipynb)
