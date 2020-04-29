@@ -216,7 +216,9 @@ For Chinese Readers:
 
 [深度强化学习_Policy_Gradient_玩转_CartPole 游戏](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/深度强化学习_Policy_Gradient_玩转_CartPole游戏.md)
 
+[8_policy_gradient_TF2_cartpole.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/8_policy_gradient_TF2_cartpole.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/8_policy_gradient_TF2_cartpole.ipynb)
 
+[Tensorflow2.0_深度强化学习——Policy_Gradient](https://github.com/zht007/tensorflow-practice/blob/master/9_Renforcement_Learning_CartPole/Tensorflow2.0_深度强化学习——Policy_Gradient)
 
 ### [10_Renforcement_Learning_Moutain_Car](https://github.com/zht007/tensorflow-practice/tree/master/10_Renforcement_Learning_Moutain_Car)
 
