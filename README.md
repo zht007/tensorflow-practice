@@ -270,6 +270,7 @@ For Chinese Readers:
 
 ### [14_Classification_fasion_MINST](https://github.com/zht007/tensorflow-practice/tree/master/14_Classification_fasion_MINST)
 
-[1_tflite_convert_model_to_tflite.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/14_Classification_fasion_MINST/1_tflite_convert_model_to_tflite.ipynb)
+[1_tflite_convert_model_to_tflite.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/14_Classification_fasion_MINST/1_tflite_convert_model_to_tflite.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/14_Classification_fasion_MINST/1_tflite_convert_model_to_tflite.ipynb)
 
-[Tensorflow Lite 入门——模型的训练和转换](https://github.com/zht007/tensorflow-practice/blob/master/14_Classification_fasion_MINST/Tensorflow_Lite_入门——模型的训练和转换.md)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/14_Classification_fasion_MINST/Tensorflow_Lite_入门——模型的训练和转换.md)
+[Tensorflow Lite 入门——模型的训练和转换](https://github.com/zht007/tensorflow-practice/blob/master/14_Classification_fasion_MINST/Tensorflow_Lite_入门——模型的训练和转换.md)
+
