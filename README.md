@@ -30,6 +30,8 @@ Quick links of the projects are (with constant updates):
 
 [13_Classification_Reuters](https://github.com/zht007/tensorflow-practice/tree/master/13_Classification_Reuters)
 
+[14_Classification_fasion_MINST](https://github.com/zht007/tensorflow-practice/tree/master/14_Classification_fasion_MINST)
+
 All codes are written in Python 3 on Jupyter Notebooks, with detailed notes and comments in English. Tensorflow tutorials for Chinease readers are provided.
 
 If you like this repository please follow me on my [Steemit](https://steemit.com/@hongtao) or [Jianshu](https://www.jianshu.com/).
@@ -263,3 +265,11 @@ For Chinese Readers:
 [2_RNN_LSTM_GRU_cell_for_Reuters_TF2_0.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/13_Classification_Reuters/2_RNN_LSTM_GRU_cell_for_Reuters_TF2_0.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/13_Classification_Reuters/2_RNN_LSTM_GRU_cell_for_Reuters_TF2_0.ipynb)
 
 [Tensorflow2_0---RNN实战路透社新闻分类](https://github.com/zht007/tensorflow-practice/blob/master/13_Classification_Reuters/Tensorflow2_0---RNN实战路透社新闻分类.md)
+
+
+
+### [14_Classification_fasion_MINST](https://github.com/zht007/tensorflow-practice/tree/master/14_Classification_fasion_MINST)
+
+[1_tflite_convert_model_to_tflite.ipynb](https://github.com/zht007/tensorflow-practice/blob/master/14_Classification_fasion_MINST/1_tflite_convert_model_to_tflite.ipynb)
+
+[Tensorflow Lite 入门——模型的训练和转换](https://github.com/zht007/tensorflow-practice/blob/master/14_Classification_fasion_MINST/Tensorflow Lite 入门——模型的训练和转换.md)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/tensorflow-practice/blob/master/14_Classification_fasion_MINST/Tensorflow Lite 入门——模型的训练和转换.md)
